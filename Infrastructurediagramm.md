@@ -1,2 +1,1 @@
-
-<img width="1192" height="802" alt="Bildschirmfoto vom 2026-11-06 01-12-00" src="https://github.com/user-attachments/assets/27095924-2a16-4220-98fd-c2d810c30553" />
+<img width="1192" height="802" alt="proxmox_infrastructure_blurred (1)" src="https://github.com/user-attachments/assets/4aaf8c52-f736-483a-b614-29b218c31496" />
